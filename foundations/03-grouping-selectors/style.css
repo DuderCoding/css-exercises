@@ -1,0 +1,17 @@
+
+.firstBut
+.secondBut {
+    font-size: 28px;
+    font-family: Helvetica, "TImes New Roman", sans-serif;
+}
+
+.firstBut {
+    color: white;
+    background-color: black;
+}
+
+.secondBut {
+    color: black;
+    background-color: yellow;
+}
+
