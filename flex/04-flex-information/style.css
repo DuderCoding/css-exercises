@@ -10,7 +10,27 @@ img {
 .title {
   font-size: 36px;
   font-weight: 900;
+  margin-bottom: 32px;
 }
+
+body {
+  text-align: center;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  gap: 52px;
+}
+
+.info {  
+  max-width: 200px;
+  border: black;
+  border-style: dashed;
+  /* Added border around flex items to give my small brain a chance to understand why the text was not on the right/in-line of all the associated images.*/
+}
+
+
 
 /* do not edit this footer */
 .footer {
